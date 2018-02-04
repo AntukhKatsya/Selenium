@@ -1,0 +1,68 @@
+D:\Дмитрий\Программы\Тестирование ПО\TestFramework\TestFramework\bin\Debug\TestFramework.dll
+D:\Дмитрий\Программы\Тестирование ПО\TestFramework\TestFramework\bin\Debug\TestFramework.pdb
+D:\Дмитрий\Программы\Тестирование ПО\TestFramework\TestFramework\bin\Debug\WebDriver.dll
+D:\Дмитрий\Программы\Тестирование ПО\TestFramework\TestFramework\bin\Debug\WebDriver.xml
+D:\Дмитрий\Программы\Тестирование ПО\TestFramework\TestFramework\obj\Debug\TestFramework.dll
+D:\Дмитрий\Программы\Тестирование ПО\TestFramework\TestFramework\obj\Debug\TestFramework.pdb
+D:\Дмитрий\Программы\Тестирование ПО\TestFramework\TestFramework\bin\Debug\Mono.Cecil.dll
+D:\Дмитрий\Программы\Тестирование ПО\TestFramework\TestFramework\bin\Debug\Mono.Cecil.Mdb.dll
+D:\Дмитрий\Программы\Тестирование ПО\TestFramework\TestFramework\bin\Debug\Mono.Cecil.Pdb.dll
+D:\Дмитрий\Программы\Тестирование ПО\TestFramework\TestFramework\bin\Debug\Mono.Cecil.Rocks.dll
+D:\Дмитрий\Программы\Тестирование ПО\TestFramework\TestFramework\bin\Debug\nunit.engine.api.dll
+D:\Дмитрий\Программы\Тестирование ПО\TestFramework\TestFramework\bin\Debug\nunit.engine.dll
+D:\Дмитрий\Программы\Тестирование ПО\TestFramework\TestFramework\bin\Debug\nunit.framework.dll
+D:\Дмитрий\Программы\Тестирование ПО\TestFramework\TestFramework\bin\Debug\NUnit3.TestAdapter.dll
+D:\Дмитрий\Программы\Тестирование ПО\TestFramework\TestFramework\bin\Debug\nunit.framework.xml
+D:\Дмитрий\Программы\Тестирование ПО\TestFramework\TestFramework\obj\Debug\TestFramework.csprojResolveAssemblyReference.cache
+c:\Users\Lenovo\Downloads\TestFramework\TestFramework\TestFramework\bin\Debug\TestFramework.dll
+c:\Users\Lenovo\Downloads\TestFramework\TestFramework\TestFramework\bin\Debug\TestFramework.pdb
+c:\Users\Lenovo\Downloads\TestFramework\TestFramework\TestFramework\bin\Debug\Mono.Cecil.dll
+c:\Users\Lenovo\Downloads\TestFramework\TestFramework\TestFramework\bin\Debug\Mono.Cecil.Mdb.dll
+c:\Users\Lenovo\Downloads\TestFramework\TestFramework\TestFramework\bin\Debug\Mono.Cecil.Pdb.dll
+c:\Users\Lenovo\Downloads\TestFramework\TestFramework\TestFramework\bin\Debug\Mono.Cecil.Rocks.dll
+c:\Users\Lenovo\Downloads\TestFramework\TestFramework\TestFramework\bin\Debug\nunit.engine.api.dll
+c:\Users\Lenovo\Downloads\TestFramework\TestFramework\TestFramework\bin\Debug\nunit.engine.dll
+c:\Users\Lenovo\Downloads\TestFramework\TestFramework\TestFramework\bin\Debug\nunit.framework.dll
+c:\Users\Lenovo\Downloads\TestFramework\TestFramework\TestFramework\bin\Debug\NUnit3.TestAdapter.dll
+c:\Users\Lenovo\Downloads\TestFramework\TestFramework\TestFramework\bin\Debug\WebDriver.dll
+c:\Users\Lenovo\Downloads\TestFramework\TestFramework\TestFramework\bin\Debug\nunit.framework.xml
+c:\Users\Lenovo\Downloads\TestFramework\TestFramework\TestFramework\bin\Debug\WebDriver.xml
+c:\Users\Lenovo\Downloads\TestFramework\TestFramework\TestFramework\obj\Debug\TestFramework.csprojResolveAssemblyReference.cache
+c:\Users\Lenovo\Downloads\TestFramework\TestFramework\TestFramework\obj\Debug\TestFramework.dll
+c:\Users\Lenovo\Downloads\TestFramework\TestFramework\TestFramework\obj\Debug\TestFramework.pdb
+e:\БГТУ\EPAM\lab_4\TestFramework\TestFramework\bin\Debug\TestFramework.dll
+e:\БГТУ\EPAM\lab_4\TestFramework\TestFramework\bin\Debug\TestFramework.pdb
+e:\БГТУ\EPAM\lab_4\TestFramework\TestFramework\bin\Debug\Mono.Cecil.dll
+e:\БГТУ\EPAM\lab_4\TestFramework\TestFramework\bin\Debug\Mono.Cecil.Mdb.dll
+e:\БГТУ\EPAM\lab_4\TestFramework\TestFramework\bin\Debug\Mono.Cecil.Pdb.dll
+e:\БГТУ\EPAM\lab_4\TestFramework\TestFramework\bin\Debug\Mono.Cecil.Rocks.dll
+e:\БГТУ\EPAM\lab_4\TestFramework\TestFramework\bin\Debug\nunit.engine.api.dll
+e:\БГТУ\EPAM\lab_4\TestFramework\TestFramework\bin\Debug\nunit.engine.dll
+e:\БГТУ\EPAM\lab_4\TestFramework\TestFramework\bin\Debug\nunit.framework.dll
+e:\БГТУ\EPAM\lab_4\TestFramework\TestFramework\bin\Debug\NUnit3.TestAdapter.dll
+e:\БГТУ\EPAM\lab_4\TestFramework\TestFramework\bin\Debug\WebDriver.dll
+e:\БГТУ\EPAM\lab_4\TestFramework\TestFramework\bin\Debug\nunit.framework.xml
+e:\БГТУ\EPAM\lab_4\TestFramework\TestFramework\bin\Debug\WebDriver.xml
+e:\БГТУ\EPAM\lab_4\TestFramework\TestFramework\obj\Debug\TestFramework.csprojResolveAssemblyReference.cache
+e:\БГТУ\EPAM\lab_4\TestFramework\TestFramework\obj\Debug\TestFramework.dll
+e:\БГТУ\EPAM\lab_4\TestFramework\TestFramework\obj\Debug\TestFramework.pdb
+e:\БГТУ\EPAM\lab_4\TestFramework\TestFramework\bin\Debug\WebDriver.Support.dll
+e:\БГТУ\EPAM\lab_4\TestFramework\TestFramework\bin\Debug\WebDriver.Support.xml
+f:\БГТУ\EPAM\lab_4\TestFramework\TestFramework\bin\Debug\TestFramework.dll
+f:\БГТУ\EPAM\lab_4\TestFramework\TestFramework\bin\Debug\TestFramework.pdb
+f:\БГТУ\EPAM\lab_4\TestFramework\TestFramework\bin\Debug\Mono.Cecil.dll
+f:\БГТУ\EPAM\lab_4\TestFramework\TestFramework\bin\Debug\Mono.Cecil.Mdb.dll
+f:\БГТУ\EPAM\lab_4\TestFramework\TestFramework\bin\Debug\Mono.Cecil.Pdb.dll
+f:\БГТУ\EPAM\lab_4\TestFramework\TestFramework\bin\Debug\Mono.Cecil.Rocks.dll
+f:\БГТУ\EPAM\lab_4\TestFramework\TestFramework\bin\Debug\nunit.engine.api.dll
+f:\БГТУ\EPAM\lab_4\TestFramework\TestFramework\bin\Debug\nunit.engine.dll
+f:\БГТУ\EPAM\lab_4\TestFramework\TestFramework\bin\Debug\nunit.framework.dll
+f:\БГТУ\EPAM\lab_4\TestFramework\TestFramework\bin\Debug\NUnit3.TestAdapter.dll
+f:\БГТУ\EPAM\lab_4\TestFramework\TestFramework\bin\Debug\WebDriver.dll
+f:\БГТУ\EPAM\lab_4\TestFramework\TestFramework\bin\Debug\WebDriver.Support.dll
+f:\БГТУ\EPAM\lab_4\TestFramework\TestFramework\bin\Debug\nunit.framework.xml
+f:\БГТУ\EPAM\lab_4\TestFramework\TestFramework\bin\Debug\WebDriver.xml
+f:\БГТУ\EPAM\lab_4\TestFramework\TestFramework\bin\Debug\WebDriver.Support.xml
+f:\БГТУ\EPAM\lab_4\TestFramework\TestFramework\obj\Debug\TestFramework.csprojResolveAssemblyReference.cache
+f:\БГТУ\EPAM\lab_4\TestFramework\TestFramework\obj\Debug\TestFramework.dll
+f:\БГТУ\EPAM\lab_4\TestFramework\TestFramework\obj\Debug\TestFramework.pdb
